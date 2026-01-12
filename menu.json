@@ -1,0 +1,14 @@
+{
+    "items": [
+        {
+            "name": "Orbit Clock",
+            "priority": 998,
+            "action": "./bin/start.sh"
+        },
+        {
+            "name": "Orbit Clock (Debug)",
+            "priority": 999,
+            "action": "./bin/start_once.sh"
+        }
+    ]
+}
