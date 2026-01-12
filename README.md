@@ -4,6 +4,8 @@
 
 The simulation runs entirely on the Kindle hardware, using Newton's law of universal gravitation to calculate the motion of the bodies, with a small potential that attracts them towards the clock. Since the 3-body setup is chaotic, the background will change dynamically over time, and resets when the setup ceases to be a 3-body setup. 
 
+A sample of how it should look is: ![orbitclock working demo](output_sample.gif)
+
 
 ---
 
