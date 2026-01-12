@@ -1,4 +1,4 @@
-# OrbitClock: N-Body Gravitational Kindle Clock
+# OrbitClock: 3-Body Gravitational Kindle Clock
 
 **OrbitClock** is a dynamic physics simulation and timekeeper designed for e-ink Kindle devices. Unlike a static clock, this project simulates **three celestial bodies** that orbit and gravitationally interact in real time, creating an ever-changing celestial dance around the time display.
 
