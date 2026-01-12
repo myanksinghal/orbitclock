@@ -166,5 +166,5 @@ draw.text((clockx+156, clocky+192), date_str, fill=rgb_white, font=font)
 
 
 # Saving image
-#image = image.transpose(Image.ROTATE_90)
+image = image.transpose(Image.ROTATE_90)
 image.convert("L").save('time_latest.png', format='PNG')
