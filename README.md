@@ -35,14 +35,14 @@ python3 -m ensurepip --upgrade
 python3 -m pip install pillow
 ```
 
-###4. Deploying OrbitClock
+### 4. Deploying OrbitClock
 1. Download all files from this repository into a folder named orbitclock.
 
 2. Connect your Kindle to your computer via USB.
 
 3. Copy the orbitclock folder into the extensions directory on your Kindle.
 ---
-##Usage
+## Usage
 
 1. Open KUAL on your Kindle.
 
